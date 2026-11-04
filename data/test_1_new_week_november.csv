@@ -1,0 +1,785 @@
+date,hour,line,station,passengers
+2026-11-01,6,Fujikyu Railway,Otsuki,51
+2026-11-01,7,Fujikyu Railway,Otsuki,29
+2026-11-01,8,Fujikyu Railway,Otsuki,60
+2026-11-01,9,Fujikyu Railway,Otsuki,16
+2026-11-01,10,Fujikyu Railway,Otsuki,19
+2026-11-01,11,Fujikyu Railway,Otsuki,78
+2026-11-01,12,Fujikyu Railway,Otsuki,22
+2026-11-01,13,Fujikyu Railway,Otsuki,56
+2026-11-01,14,Fujikyu Railway,Otsuki,84
+2026-11-01,15,Fujikyu Railway,Otsuki,17
+2026-11-01,16,Fujikyu Railway,Otsuki,74
+2026-11-01,17,Fujikyu Railway,Otsuki,37
+2026-11-01,18,Fujikyu Railway,Otsuki,14
+2026-11-01,19,Fujikyu Railway,Otsuki,21
+2026-11-01,20,Fujikyu Railway,Otsuki,65
+2026-11-01,21,Fujikyu Railway,Otsuki,63
+2026-11-01,6,Fujikyu Railway,Shimoyoshida,18
+2026-11-01,7,Fujikyu Railway,Shimoyoshida,40
+2026-11-01,8,Fujikyu Railway,Shimoyoshida,21
+2026-11-01,9,Fujikyu Railway,Shimoyoshida,80
+2026-11-01,10,Fujikyu Railway,Shimoyoshida,64
+2026-11-01,11,Fujikyu Railway,Shimoyoshida,17
+2026-11-01,12,Fujikyu Railway,Shimoyoshida,82
+2026-11-01,13,Fujikyu Railway,Shimoyoshida,25
+2026-11-01,14,Fujikyu Railway,Shimoyoshida,38
+2026-11-01,15,Fujikyu Railway,Shimoyoshida,90
+2026-11-01,16,Fujikyu Railway,Shimoyoshida,90
+2026-11-01,17,Fujikyu Railway,Shimoyoshida,84
+2026-11-01,18,Fujikyu Railway,Shimoyoshida,17
+2026-11-01,19,Fujikyu Railway,Shimoyoshida,83
+2026-11-01,20,Fujikyu Railway,Shimoyoshida,84
+2026-11-01,21,Fujikyu Railway,Shimoyoshida,60
+2026-11-01,6,Fujikyu Railway,Mt.Fuji,16
+2026-11-01,7,Fujikyu Railway,Mt.Fuji,38
+2026-11-01,8,Fujikyu Railway,Mt.Fuji,15
+2026-11-01,9,Fujikyu Railway,Mt.Fuji,81
+2026-11-01,10,Fujikyu Railway,Mt.Fuji,27
+2026-11-01,11,Fujikyu Railway,Mt.Fuji,47
+2026-11-01,12,Fujikyu Railway,Mt.Fuji,63
+2026-11-01,13,Fujikyu Railway,Mt.Fuji,28
+2026-11-01,14,Fujikyu Railway,Mt.Fuji,79
+2026-11-01,15,Fujikyu Railway,Mt.Fuji,25
+2026-11-01,16,Fujikyu Railway,Mt.Fuji,83
+2026-11-01,17,Fujikyu Railway,Mt.Fuji,49
+2026-11-01,18,Fujikyu Railway,Mt.Fuji,81
+2026-11-01,19,Fujikyu Railway,Mt.Fuji,33
+2026-11-01,20,Fujikyu Railway,Mt.Fuji,23
+2026-11-01,21,Fujikyu Railway,Mt.Fuji,84
+2026-11-01,6,Fujikyu Railway,Fuji-Q Highland,83
+2026-11-01,7,Fujikyu Railway,Fuji-Q Highland,34
+2026-11-01,8,Fujikyu Railway,Fuji-Q Highland,57
+2026-11-01,9,Fujikyu Railway,Fuji-Q Highland,22
+2026-11-01,10,Fujikyu Railway,Fuji-Q Highland,80
+2026-11-01,11,Fujikyu Railway,Fuji-Q Highland,18
+2026-11-01,12,Fujikyu Railway,Fuji-Q Highland,82
+2026-11-01,13,Fujikyu Railway,Fuji-Q Highland,17
+2026-11-01,14,Fujikyu Railway,Fuji-Q Highland,89
+2026-11-01,15,Fujikyu Railway,Fuji-Q Highland,36
+2026-11-01,16,Fujikyu Railway,Fuji-Q Highland,73
+2026-11-01,17,Fujikyu Railway,Fuji-Q Highland,78
+2026-11-01,18,Fujikyu Railway,Fuji-Q Highland,64
+2026-11-01,19,Fujikyu Railway,Fuji-Q Highland,50
+2026-11-01,20,Fujikyu Railway,Fuji-Q Highland,69
+2026-11-01,21,Fujikyu Railway,Fuji-Q Highland,84
+2026-11-01,6,Fujikyu Railway,Kawaguchiko,68
+2026-11-01,7,Fujikyu Railway,Kawaguchiko,56
+2026-11-01,8,Fujikyu Railway,Kawaguchiko,48
+2026-11-01,9,Fujikyu Railway,Kawaguchiko,41
+2026-11-01,10,Fujikyu Railway,Kawaguchiko,33
+2026-11-01,11,Fujikyu Railway,Kawaguchiko,41
+2026-11-01,12,Fujikyu Railway,Kawaguchiko,20
+2026-11-01,13,Fujikyu Railway,Kawaguchiko,83
+2026-11-01,14,Fujikyu Railway,Kawaguchiko,48
+2026-11-01,15,Fujikyu Railway,Kawaguchiko,77
+2026-11-01,16,Fujikyu Railway,Kawaguchiko,73
+2026-11-01,17,Fujikyu Railway,Kawaguchiko,53
+2026-11-01,18,Fujikyu Railway,Kawaguchiko,67
+2026-11-01,19,Fujikyu Railway,Kawaguchiko,46
+2026-11-01,20,Fujikyu Railway,Kawaguchiko,87
+2026-11-01,21,Fujikyu Railway,Kawaguchiko,19
+2026-11-01,6,Local Bus,Kawaguchiko Station,25
+2026-11-01,7,Local Bus,Kawaguchiko Station,75
+2026-11-01,8,Local Bus,Kawaguchiko Station,63
+2026-11-01,9,Local Bus,Kawaguchiko Station,31
+2026-11-01,10,Local Bus,Kawaguchiko Station,53
+2026-11-01,11,Local Bus,Kawaguchiko Station,29
+2026-11-01,12,Local Bus,Kawaguchiko Station,72
+2026-11-01,13,Local Bus,Kawaguchiko Station,63
+2026-11-01,14,Local Bus,Kawaguchiko Station,15
+2026-11-01,15,Local Bus,Kawaguchiko Station,19
+2026-11-01,16,Local Bus,Kawaguchiko Station,81
+2026-11-01,17,Local Bus,Kawaguchiko Station,83
+2026-11-01,18,Local Bus,Kawaguchiko Station,50
+2026-11-01,19,Local Bus,Kawaguchiko Station,53
+2026-11-01,20,Local Bus,Kawaguchiko Station,54
+2026-11-01,21,Local Bus,Kawaguchiko Station,86
+2026-11-01,6,Local Bus,Lake Kawaguchiko North,73
+2026-11-01,7,Local Bus,Lake Kawaguchiko North,84
+2026-11-01,8,Local Bus,Lake Kawaguchiko North,68
+2026-11-01,9,Local Bus,Lake Kawaguchiko North,18
+2026-11-01,10,Local Bus,Lake Kawaguchiko North,21
+2026-11-01,11,Local Bus,Lake Kawaguchiko North,44
+2026-11-01,12,Local Bus,Lake Kawaguchiko North,70
+2026-11-01,13,Local Bus,Lake Kawaguchiko North,18
+2026-11-01,14,Local Bus,Lake Kawaguchiko North,17
+2026-11-01,15,Local Bus,Lake Kawaguchiko North,49
+2026-11-01,16,Local Bus,Lake Kawaguchiko North,83
+2026-11-01,17,Local Bus,Lake Kawaguchiko North,67
+2026-11-01,18,Local Bus,Lake Kawaguchiko North,46
+2026-11-01,19,Local Bus,Lake Kawaguchiko North,59
+2026-11-01,20,Local Bus,Lake Kawaguchiko North,54
+2026-11-01,21,Local Bus,Lake Kawaguchiko North,12
+2026-11-02,6,Fujikyu Railway,Otsuki,69
+2026-11-02,7,Fujikyu Railway,Otsuki,55
+2026-11-02,8,Fujikyu Railway,Otsuki,31
+2026-11-02,9,Fujikyu Railway,Otsuki,88
+2026-11-02,10,Fujikyu Railway,Otsuki,24
+2026-11-02,11,Fujikyu Railway,Otsuki,73
+2026-11-02,12,Fujikyu Railway,Otsuki,17
+2026-11-02,13,Fujikyu Railway,Otsuki,37
+2026-11-02,14,Fujikyu Railway,Otsuki,46
+2026-11-02,15,Fujikyu Railway,Otsuki,26
+2026-11-02,16,Fujikyu Railway,Otsuki,41
+2026-11-02,17,Fujikyu Railway,Otsuki,60
+2026-11-02,18,Fujikyu Railway,Otsuki,60
+2026-11-02,19,Fujikyu Railway,Otsuki,73
+2026-11-02,20,Fujikyu Railway,Otsuki,20
+2026-11-02,21,Fujikyu Railway,Otsuki,31
+2026-11-02,6,Fujikyu Railway,Shimoyoshida,67
+2026-11-02,7,Fujikyu Railway,Shimoyoshida,61
+2026-11-02,8,Fujikyu Railway,Shimoyoshida,80
+2026-11-02,9,Fujikyu Railway,Shimoyoshida,45
+2026-11-02,10,Fujikyu Railway,Shimoyoshida,27
+2026-11-02,11,Fujikyu Railway,Shimoyoshida,65
+2026-11-02,12,Fujikyu Railway,Shimoyoshida,80
+2026-11-02,13,Fujikyu Railway,Shimoyoshida,45
+2026-11-02,14,Fujikyu Railway,Shimoyoshida,63
+2026-11-02,15,Fujikyu Railway,Shimoyoshida,55
+2026-11-02,16,Fujikyu Railway,Shimoyoshida,58
+2026-11-02,17,Fujikyu Railway,Shimoyoshida,39
+2026-11-02,18,Fujikyu Railway,Shimoyoshida,29
+2026-11-02,19,Fujikyu Railway,Shimoyoshida,20
+2026-11-02,20,Fujikyu Railway,Shimoyoshida,32
+2026-11-02,21,Fujikyu Railway,Shimoyoshida,29
+2026-11-02,6,Fujikyu Railway,Mt.Fuji,39
+2026-11-02,7,Fujikyu Railway,Mt.Fuji,39
+2026-11-02,8,Fujikyu Railway,Mt.Fuji,11
+2026-11-02,9,Fujikyu Railway,Mt.Fuji,72
+2026-11-02,10,Fujikyu Railway,Mt.Fuji,85
+2026-11-02,11,Fujikyu Railway,Mt.Fuji,33
+2026-11-02,12,Fujikyu Railway,Mt.Fuji,43
+2026-11-02,13,Fujikyu Railway,Mt.Fuji,46
+2026-11-02,14,Fujikyu Railway,Mt.Fuji,10
+2026-11-02,15,Fujikyu Railway,Mt.Fuji,28
+2026-11-02,16,Fujikyu Railway,Mt.Fuji,63
+2026-11-02,17,Fujikyu Railway,Mt.Fuji,78
+2026-11-02,18,Fujikyu Railway,Mt.Fuji,57
+2026-11-02,19,Fujikyu Railway,Mt.Fuji,88
+2026-11-02,20,Fujikyu Railway,Mt.Fuji,82
+2026-11-02,21,Fujikyu Railway,Mt.Fuji,50
+2026-11-02,6,Fujikyu Railway,Fuji-Q Highland,26
+2026-11-02,7,Fujikyu Railway,Fuji-Q Highland,75
+2026-11-02,8,Fujikyu Railway,Fuji-Q Highland,89
+2026-11-02,9,Fujikyu Railway,Fuji-Q Highland,16
+2026-11-02,10,Fujikyu Railway,Fuji-Q Highland,68
+2026-11-02,11,Fujikyu Railway,Fuji-Q Highland,81
+2026-11-02,12,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-02,13,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-02,14,Fujikyu Railway,Fuji-Q Highland,61
+2026-11-02,15,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-02,16,Fujikyu Railway,Fuji-Q Highland,23
+2026-11-02,17,Fujikyu Railway,Fuji-Q Highland,71
+2026-11-02,18,Fujikyu Railway,Fuji-Q Highland,61
+2026-11-02,19,Fujikyu Railway,Fuji-Q Highland,17
+2026-11-02,20,Fujikyu Railway,Fuji-Q Highland,34
+2026-11-02,21,Fujikyu Railway,Fuji-Q Highland,18
+2026-11-02,6,Fujikyu Railway,Kawaguchiko,36
+2026-11-02,7,Fujikyu Railway,Kawaguchiko,66
+2026-11-02,8,Fujikyu Railway,Kawaguchiko,30
+2026-11-02,9,Fujikyu Railway,Kawaguchiko,24
+2026-11-02,10,Fujikyu Railway,Kawaguchiko,53
+2026-11-02,11,Fujikyu Railway,Kawaguchiko,86
+2026-11-02,12,Fujikyu Railway,Kawaguchiko,16
+2026-11-02,13,Fujikyu Railway,Kawaguchiko,23
+2026-11-02,14,Fujikyu Railway,Kawaguchiko,10
+2026-11-02,15,Fujikyu Railway,Kawaguchiko,82
+2026-11-02,16,Fujikyu Railway,Kawaguchiko,29
+2026-11-02,17,Fujikyu Railway,Kawaguchiko,78
+2026-11-02,18,Fujikyu Railway,Kawaguchiko,22
+2026-11-02,19,Fujikyu Railway,Kawaguchiko,56
+2026-11-02,20,Fujikyu Railway,Kawaguchiko,88
+2026-11-02,21,Fujikyu Railway,Kawaguchiko,13
+2026-11-02,6,Local Bus,Kawaguchiko Station,19
+2026-11-02,7,Local Bus,Kawaguchiko Station,36
+2026-11-02,8,Local Bus,Kawaguchiko Station,88
+2026-11-02,9,Local Bus,Kawaguchiko Station,58
+2026-11-02,10,Local Bus,Kawaguchiko Station,29
+2026-11-02,11,Local Bus,Kawaguchiko Station,42
+2026-11-02,12,Local Bus,Kawaguchiko Station,54
+2026-11-02,13,Local Bus,Kawaguchiko Station,87
+2026-11-02,14,Local Bus,Kawaguchiko Station,56
+2026-11-02,15,Local Bus,Kawaguchiko Station,70
+2026-11-02,16,Local Bus,Kawaguchiko Station,25
+2026-11-02,17,Local Bus,Kawaguchiko Station,24
+2026-11-02,18,Local Bus,Kawaguchiko Station,72
+2026-11-02,19,Local Bus,Kawaguchiko Station,69
+2026-11-02,20,Local Bus,Kawaguchiko Station,71
+2026-11-02,21,Local Bus,Kawaguchiko Station,71
+2026-11-02,6,Local Bus,Lake Kawaguchiko North,49
+2026-11-02,7,Local Bus,Lake Kawaguchiko North,20
+2026-11-02,8,Local Bus,Lake Kawaguchiko North,28
+2026-11-02,9,Local Bus,Lake Kawaguchiko North,23
+2026-11-02,10,Local Bus,Lake Kawaguchiko North,53
+2026-11-02,11,Local Bus,Lake Kawaguchiko North,43
+2026-11-02,12,Local Bus,Lake Kawaguchiko North,71
+2026-11-02,13,Local Bus,Lake Kawaguchiko North,30
+2026-11-02,14,Local Bus,Lake Kawaguchiko North,76
+2026-11-02,15,Local Bus,Lake Kawaguchiko North,12
+2026-11-02,16,Local Bus,Lake Kawaguchiko North,36
+2026-11-02,17,Local Bus,Lake Kawaguchiko North,77
+2026-11-02,18,Local Bus,Lake Kawaguchiko North,56
+2026-11-02,19,Local Bus,Lake Kawaguchiko North,28
+2026-11-02,20,Local Bus,Lake Kawaguchiko North,79
+2026-11-02,21,Local Bus,Lake Kawaguchiko North,13
+2026-11-03,6,Fujikyu Railway,Otsuki,77
+2026-11-03,7,Fujikyu Railway,Otsuki,48
+2026-11-03,8,Fujikyu Railway,Otsuki,21
+2026-11-03,9,Fujikyu Railway,Otsuki,43
+2026-11-03,10,Fujikyu Railway,Otsuki,76
+2026-11-03,11,Fujikyu Railway,Otsuki,56
+2026-11-03,12,Fujikyu Railway,Otsuki,31
+2026-11-03,13,Fujikyu Railway,Otsuki,55
+2026-11-03,14,Fujikyu Railway,Otsuki,38
+2026-11-03,15,Fujikyu Railway,Otsuki,78
+2026-11-03,16,Fujikyu Railway,Otsuki,79
+2026-11-03,17,Fujikyu Railway,Otsuki,74
+2026-11-03,18,Fujikyu Railway,Otsuki,52
+2026-11-03,19,Fujikyu Railway,Otsuki,38
+2026-11-03,20,Fujikyu Railway,Otsuki,88
+2026-11-03,21,Fujikyu Railway,Otsuki,34
+2026-11-03,6,Fujikyu Railway,Shimoyoshida,40
+2026-11-03,7,Fujikyu Railway,Shimoyoshida,61
+2026-11-03,8,Fujikyu Railway,Shimoyoshida,39
+2026-11-03,9,Fujikyu Railway,Shimoyoshida,35
+2026-11-03,10,Fujikyu Railway,Shimoyoshida,76
+2026-11-03,11,Fujikyu Railway,Shimoyoshida,73
+2026-11-03,12,Fujikyu Railway,Shimoyoshida,55
+2026-11-03,13,Fujikyu Railway,Shimoyoshida,13
+2026-11-03,14,Fujikyu Railway,Shimoyoshida,13
+2026-11-03,15,Fujikyu Railway,Shimoyoshida,45
+2026-11-03,16,Fujikyu Railway,Shimoyoshida,70
+2026-11-03,17,Fujikyu Railway,Shimoyoshida,43
+2026-11-03,18,Fujikyu Railway,Shimoyoshida,34
+2026-11-03,19,Fujikyu Railway,Shimoyoshida,87
+2026-11-03,20,Fujikyu Railway,Shimoyoshida,54
+2026-11-03,21,Fujikyu Railway,Shimoyoshida,67
+2026-11-03,6,Fujikyu Railway,Mt.Fuji,54
+2026-11-03,7,Fujikyu Railway,Mt.Fuji,56
+2026-11-03,8,Fujikyu Railway,Mt.Fuji,20
+2026-11-03,9,Fujikyu Railway,Mt.Fuji,38
+2026-11-03,10,Fujikyu Railway,Mt.Fuji,23
+2026-11-03,11,Fujikyu Railway,Mt.Fuji,39
+2026-11-03,12,Fujikyu Railway,Mt.Fuji,70
+2026-11-03,13,Fujikyu Railway,Mt.Fuji,35
+2026-11-03,14,Fujikyu Railway,Mt.Fuji,53
+2026-11-03,15,Fujikyu Railway,Mt.Fuji,36
+2026-11-03,16,Fujikyu Railway,Mt.Fuji,71
+2026-11-03,17,Fujikyu Railway,Mt.Fuji,89
+2026-11-03,18,Fujikyu Railway,Mt.Fuji,88
+2026-11-03,19,Fujikyu Railway,Mt.Fuji,10
+2026-11-03,20,Fujikyu Railway,Mt.Fuji,71
+2026-11-03,21,Fujikyu Railway,Mt.Fuji,54
+2026-11-03,6,Fujikyu Railway,Fuji-Q Highland,20
+2026-11-03,7,Fujikyu Railway,Fuji-Q Highland,25
+2026-11-03,8,Fujikyu Railway,Fuji-Q Highland,59
+2026-11-03,9,Fujikyu Railway,Fuji-Q Highland,35
+2026-11-03,10,Fujikyu Railway,Fuji-Q Highland,71
+2026-11-03,11,Fujikyu Railway,Fuji-Q Highland,32
+2026-11-03,12,Fujikyu Railway,Fuji-Q Highland,65
+2026-11-03,13,Fujikyu Railway,Fuji-Q Highland,52
+2026-11-03,14,Fujikyu Railway,Fuji-Q Highland,21
+2026-11-03,15,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-03,16,Fujikyu Railway,Fuji-Q Highland,69
+2026-11-03,17,Fujikyu Railway,Fuji-Q Highland,61
+2026-11-03,18,Fujikyu Railway,Fuji-Q Highland,20
+2026-11-03,19,Fujikyu Railway,Fuji-Q Highland,30
+2026-11-03,20,Fujikyu Railway,Fuji-Q Highland,31
+2026-11-03,21,Fujikyu Railway,Fuji-Q Highland,26
+2026-11-03,6,Fujikyu Railway,Kawaguchiko,13
+2026-11-03,7,Fujikyu Railway,Kawaguchiko,29
+2026-11-03,8,Fujikyu Railway,Kawaguchiko,85
+2026-11-03,9,Fujikyu Railway,Kawaguchiko,69
+2026-11-03,10,Fujikyu Railway,Kawaguchiko,28
+2026-11-03,11,Fujikyu Railway,Kawaguchiko,88
+2026-11-03,12,Fujikyu Railway,Kawaguchiko,86
+2026-11-03,13,Fujikyu Railway,Kawaguchiko,70
+2026-11-03,14,Fujikyu Railway,Kawaguchiko,54
+2026-11-03,15,Fujikyu Railway,Kawaguchiko,29
+2026-11-03,16,Fujikyu Railway,Kawaguchiko,80
+2026-11-03,17,Fujikyu Railway,Kawaguchiko,80
+2026-11-03,18,Fujikyu Railway,Kawaguchiko,26
+2026-11-03,19,Fujikyu Railway,Kawaguchiko,12
+2026-11-03,20,Fujikyu Railway,Kawaguchiko,11
+2026-11-03,21,Fujikyu Railway,Kawaguchiko,23
+2026-11-03,6,Local Bus,Kawaguchiko Station,77
+2026-11-03,7,Local Bus,Kawaguchiko Station,27
+2026-11-03,8,Local Bus,Kawaguchiko Station,65
+2026-11-03,9,Local Bus,Kawaguchiko Station,34
+2026-11-03,10,Local Bus,Kawaguchiko Station,37
+2026-11-03,11,Local Bus,Kawaguchiko Station,13
+2026-11-03,12,Local Bus,Kawaguchiko Station,42
+2026-11-03,13,Local Bus,Kawaguchiko Station,37
+2026-11-03,14,Local Bus,Kawaguchiko Station,47
+2026-11-03,15,Local Bus,Kawaguchiko Station,74
+2026-11-03,16,Local Bus,Kawaguchiko Station,40
+2026-11-03,17,Local Bus,Kawaguchiko Station,85
+2026-11-03,18,Local Bus,Kawaguchiko Station,51
+2026-11-03,19,Local Bus,Kawaguchiko Station,43
+2026-11-03,20,Local Bus,Kawaguchiko Station,79
+2026-11-03,21,Local Bus,Kawaguchiko Station,63
+2026-11-03,6,Local Bus,Lake Kawaguchiko North,26
+2026-11-03,7,Local Bus,Lake Kawaguchiko North,17
+2026-11-03,8,Local Bus,Lake Kawaguchiko North,55
+2026-11-03,9,Local Bus,Lake Kawaguchiko North,68
+2026-11-03,10,Local Bus,Lake Kawaguchiko North,84
+2026-11-03,11,Local Bus,Lake Kawaguchiko North,76
+2026-11-03,12,Local Bus,Lake Kawaguchiko North,63
+2026-11-03,13,Local Bus,Lake Kawaguchiko North,74
+2026-11-03,14,Local Bus,Lake Kawaguchiko North,26
+2026-11-03,15,Local Bus,Lake Kawaguchiko North,78
+2026-11-03,16,Local Bus,Lake Kawaguchiko North,29
+2026-11-03,17,Local Bus,Lake Kawaguchiko North,77
+2026-11-03,18,Local Bus,Lake Kawaguchiko North,75
+2026-11-03,19,Local Bus,Lake Kawaguchiko North,12
+2026-11-03,20,Local Bus,Lake Kawaguchiko North,66
+2026-11-03,21,Local Bus,Lake Kawaguchiko North,33
+2026-11-04,6,Fujikyu Railway,Otsuki,87
+2026-11-04,7,Fujikyu Railway,Otsuki,10
+2026-11-04,8,Fujikyu Railway,Otsuki,29
+2026-11-04,9,Fujikyu Railway,Otsuki,32
+2026-11-04,10,Fujikyu Railway,Otsuki,28
+2026-11-04,11,Fujikyu Railway,Otsuki,70
+2026-11-04,12,Fujikyu Railway,Otsuki,89
+2026-11-04,13,Fujikyu Railway,Otsuki,25
+2026-11-04,14,Fujikyu Railway,Otsuki,81
+2026-11-04,15,Fujikyu Railway,Otsuki,17
+2026-11-04,16,Fujikyu Railway,Otsuki,51
+2026-11-04,17,Fujikyu Railway,Otsuki,76
+2026-11-04,18,Fujikyu Railway,Otsuki,77
+2026-11-04,19,Fujikyu Railway,Otsuki,81
+2026-11-04,20,Fujikyu Railway,Otsuki,71
+2026-11-04,21,Fujikyu Railway,Otsuki,23
+2026-11-04,6,Fujikyu Railway,Shimoyoshida,81
+2026-11-04,7,Fujikyu Railway,Shimoyoshida,17
+2026-11-04,8,Fujikyu Railway,Shimoyoshida,41
+2026-11-04,9,Fujikyu Railway,Shimoyoshida,34
+2026-11-04,10,Fujikyu Railway,Shimoyoshida,45
+2026-11-04,11,Fujikyu Railway,Shimoyoshida,15
+2026-11-04,12,Fujikyu Railway,Shimoyoshida,22
+2026-11-04,13,Fujikyu Railway,Shimoyoshida,74
+2026-11-04,14,Fujikyu Railway,Shimoyoshida,67
+2026-11-04,15,Fujikyu Railway,Shimoyoshida,81
+2026-11-04,16,Fujikyu Railway,Shimoyoshida,13
+2026-11-04,17,Fujikyu Railway,Shimoyoshida,18
+2026-11-04,18,Fujikyu Railway,Shimoyoshida,66
+2026-11-04,19,Fujikyu Railway,Shimoyoshida,51
+2026-11-04,20,Fujikyu Railway,Shimoyoshida,88
+2026-11-04,21,Fujikyu Railway,Shimoyoshida,74
+2026-11-04,6,Fujikyu Railway,Mt.Fuji,87
+2026-11-04,7,Fujikyu Railway,Mt.Fuji,75
+2026-11-04,8,Fujikyu Railway,Mt.Fuji,35
+2026-11-04,9,Fujikyu Railway,Mt.Fuji,45
+2026-11-04,10,Fujikyu Railway,Mt.Fuji,67
+2026-11-04,11,Fujikyu Railway,Mt.Fuji,75
+2026-11-04,12,Fujikyu Railway,Mt.Fuji,78
+2026-11-04,13,Fujikyu Railway,Mt.Fuji,71
+2026-11-04,14,Fujikyu Railway,Mt.Fuji,74
+2026-11-04,15,Fujikyu Railway,Mt.Fuji,41
+2026-11-04,16,Fujikyu Railway,Mt.Fuji,76
+2026-11-04,17,Fujikyu Railway,Mt.Fuji,43
+2026-11-04,18,Fujikyu Railway,Mt.Fuji,81
+2026-11-04,19,Fujikyu Railway,Mt.Fuji,35
+2026-11-04,20,Fujikyu Railway,Mt.Fuji,67
+2026-11-04,21,Fujikyu Railway,Mt.Fuji,27
+2026-11-04,6,Fujikyu Railway,Fuji-Q Highland,63
+2026-11-04,7,Fujikyu Railway,Fuji-Q Highland,25
+2026-11-04,8,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-04,9,Fujikyu Railway,Fuji-Q Highland,66
+2026-11-04,10,Fujikyu Railway,Fuji-Q Highland,50
+2026-11-04,11,Fujikyu Railway,Fuji-Q Highland,19
+2026-11-04,12,Fujikyu Railway,Fuji-Q Highland,40
+2026-11-04,13,Fujikyu Railway,Fuji-Q Highland,64
+2026-11-04,14,Fujikyu Railway,Fuji-Q Highland,19
+2026-11-04,15,Fujikyu Railway,Fuji-Q Highland,37
+2026-11-04,16,Fujikyu Railway,Fuji-Q Highland,48
+2026-11-04,17,Fujikyu Railway,Fuji-Q Highland,25
+2026-11-04,18,Fujikyu Railway,Fuji-Q Highland,29
+2026-11-04,19,Fujikyu Railway,Fuji-Q Highland,56
+2026-11-04,20,Fujikyu Railway,Fuji-Q Highland,28
+2026-11-04,21,Fujikyu Railway,Fuji-Q Highland,42
+2026-11-04,6,Fujikyu Railway,Kawaguchiko,27
+2026-11-04,7,Fujikyu Railway,Kawaguchiko,69
+2026-11-04,8,Fujikyu Railway,Kawaguchiko,38
+2026-11-04,9,Fujikyu Railway,Kawaguchiko,22
+2026-11-04,10,Fujikyu Railway,Kawaguchiko,60
+2026-11-04,11,Fujikyu Railway,Kawaguchiko,72
+2026-11-04,12,Fujikyu Railway,Kawaguchiko,30
+2026-11-04,13,Fujikyu Railway,Kawaguchiko,38
+2026-11-04,14,Fujikyu Railway,Kawaguchiko,30
+2026-11-04,15,Fujikyu Railway,Kawaguchiko,65
+2026-11-04,16,Fujikyu Railway,Kawaguchiko,75
+2026-11-04,17,Fujikyu Railway,Kawaguchiko,61
+2026-11-04,18,Fujikyu Railway,Kawaguchiko,53
+2026-11-04,19,Fujikyu Railway,Kawaguchiko,63
+2026-11-04,20,Fujikyu Railway,Kawaguchiko,35
+2026-11-04,21,Fujikyu Railway,Kawaguchiko,55
+2026-11-04,6,Local Bus,Kawaguchiko Station,50
+2026-11-04,7,Local Bus,Kawaguchiko Station,21
+2026-11-04,8,Local Bus,Kawaguchiko Station,56
+2026-11-04,9,Local Bus,Kawaguchiko Station,12
+2026-11-04,10,Local Bus,Kawaguchiko Station,53
+2026-11-04,11,Local Bus,Kawaguchiko Station,80
+2026-11-04,12,Local Bus,Kawaguchiko Station,68
+2026-11-04,13,Local Bus,Kawaguchiko Station,66
+2026-11-04,14,Local Bus,Kawaguchiko Station,12
+2026-11-04,15,Local Bus,Kawaguchiko Station,59
+2026-11-04,16,Local Bus,Kawaguchiko Station,52
+2026-11-04,17,Local Bus,Kawaguchiko Station,76
+2026-11-04,18,Local Bus,Kawaguchiko Station,89
+2026-11-04,19,Local Bus,Kawaguchiko Station,47
+2026-11-04,20,Local Bus,Kawaguchiko Station,75
+2026-11-04,21,Local Bus,Kawaguchiko Station,18
+2026-11-04,6,Local Bus,Lake Kawaguchiko North,24
+2026-11-04,7,Local Bus,Lake Kawaguchiko North,39
+2026-11-04,8,Local Bus,Lake Kawaguchiko North,23
+2026-11-04,9,Local Bus,Lake Kawaguchiko North,20
+2026-11-04,10,Local Bus,Lake Kawaguchiko North,43
+2026-11-04,11,Local Bus,Lake Kawaguchiko North,44
+2026-11-04,12,Local Bus,Lake Kawaguchiko North,15
+2026-11-04,13,Local Bus,Lake Kawaguchiko North,33
+2026-11-04,14,Local Bus,Lake Kawaguchiko North,44
+2026-11-04,15,Local Bus,Lake Kawaguchiko North,26
+2026-11-04,16,Local Bus,Lake Kawaguchiko North,64
+2026-11-04,17,Local Bus,Lake Kawaguchiko North,43
+2026-11-04,18,Local Bus,Lake Kawaguchiko North,61
+2026-11-04,19,Local Bus,Lake Kawaguchiko North,29
+2026-11-04,20,Local Bus,Lake Kawaguchiko North,78
+2026-11-04,21,Local Bus,Lake Kawaguchiko North,75
+2026-11-05,6,Fujikyu Railway,Otsuki,83
+2026-11-05,7,Fujikyu Railway,Otsuki,73
+2026-11-05,8,Fujikyu Railway,Otsuki,51
+2026-11-05,9,Fujikyu Railway,Otsuki,21
+2026-11-05,10,Fujikyu Railway,Otsuki,45
+2026-11-05,11,Fujikyu Railway,Otsuki,17
+2026-11-05,12,Fujikyu Railway,Otsuki,33
+2026-11-05,13,Fujikyu Railway,Otsuki,64
+2026-11-05,14,Fujikyu Railway,Otsuki,19
+2026-11-05,15,Fujikyu Railway,Otsuki,44
+2026-11-05,16,Fujikyu Railway,Otsuki,12
+2026-11-05,17,Fujikyu Railway,Otsuki,21
+2026-11-05,18,Fujikyu Railway,Otsuki,43
+2026-11-05,19,Fujikyu Railway,Otsuki,20
+2026-11-05,20,Fujikyu Railway,Otsuki,87
+2026-11-05,21,Fujikyu Railway,Otsuki,38
+2026-11-05,6,Fujikyu Railway,Shimoyoshida,18
+2026-11-05,7,Fujikyu Railway,Shimoyoshida,43
+2026-11-05,8,Fujikyu Railway,Shimoyoshida,25
+2026-11-05,9,Fujikyu Railway,Shimoyoshida,68
+2026-11-05,10,Fujikyu Railway,Shimoyoshida,11
+2026-11-05,11,Fujikyu Railway,Shimoyoshida,53
+2026-11-05,12,Fujikyu Railway,Shimoyoshida,80
+2026-11-05,13,Fujikyu Railway,Shimoyoshida,63
+2026-11-05,14,Fujikyu Railway,Shimoyoshida,44
+2026-11-05,15,Fujikyu Railway,Shimoyoshida,89
+2026-11-05,16,Fujikyu Railway,Shimoyoshida,26
+2026-11-05,17,Fujikyu Railway,Shimoyoshida,15
+2026-11-05,18,Fujikyu Railway,Shimoyoshida,77
+2026-11-05,19,Fujikyu Railway,Shimoyoshida,40
+2026-11-05,20,Fujikyu Railway,Shimoyoshida,24
+2026-11-05,21,Fujikyu Railway,Shimoyoshida,30
+2026-11-05,6,Fujikyu Railway,Mt.Fuji,43
+2026-11-05,7,Fujikyu Railway,Mt.Fuji,16
+2026-11-05,8,Fujikyu Railway,Mt.Fuji,33
+2026-11-05,9,Fujikyu Railway,Mt.Fuji,35
+2026-11-05,10,Fujikyu Railway,Mt.Fuji,49
+2026-11-05,11,Fujikyu Railway,Mt.Fuji,90
+2026-11-05,12,Fujikyu Railway,Mt.Fuji,49
+2026-11-05,13,Fujikyu Railway,Mt.Fuji,77
+2026-11-05,14,Fujikyu Railway,Mt.Fuji,36
+2026-11-05,15,Fujikyu Railway,Mt.Fuji,47
+2026-11-05,16,Fujikyu Railway,Mt.Fuji,67
+2026-11-05,17,Fujikyu Railway,Mt.Fuji,74
+2026-11-05,18,Fujikyu Railway,Mt.Fuji,32
+2026-11-05,19,Fujikyu Railway,Mt.Fuji,44
+2026-11-05,20,Fujikyu Railway,Mt.Fuji,54
+2026-11-05,21,Fujikyu Railway,Mt.Fuji,12
+2026-11-05,6,Fujikyu Railway,Fuji-Q Highland,42
+2026-11-05,7,Fujikyu Railway,Fuji-Q Highland,14
+2026-11-05,8,Fujikyu Railway,Fuji-Q Highland,11
+2026-11-05,9,Fujikyu Railway,Fuji-Q Highland,12
+2026-11-05,10,Fujikyu Railway,Fuji-Q Highland,74
+2026-11-05,11,Fujikyu Railway,Fuji-Q Highland,80
+2026-11-05,12,Fujikyu Railway,Fuji-Q Highland,34
+2026-11-05,13,Fujikyu Railway,Fuji-Q Highland,75
+2026-11-05,14,Fujikyu Railway,Fuji-Q Highland,70
+2026-11-05,15,Fujikyu Railway,Fuji-Q Highland,41
+2026-11-05,16,Fujikyu Railway,Fuji-Q Highland,67
+2026-11-05,17,Fujikyu Railway,Fuji-Q Highland,23
+2026-11-05,18,Fujikyu Railway,Fuji-Q Highland,65
+2026-11-05,19,Fujikyu Railway,Fuji-Q Highland,73
+2026-11-05,20,Fujikyu Railway,Fuji-Q Highland,79
+2026-11-05,21,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-05,6,Fujikyu Railway,Kawaguchiko,74
+2026-11-05,7,Fujikyu Railway,Kawaguchiko,49
+2026-11-05,8,Fujikyu Railway,Kawaguchiko,37
+2026-11-05,9,Fujikyu Railway,Kawaguchiko,39
+2026-11-05,10,Fujikyu Railway,Kawaguchiko,53
+2026-11-05,11,Fujikyu Railway,Kawaguchiko,35
+2026-11-05,12,Fujikyu Railway,Kawaguchiko,27
+2026-11-05,13,Fujikyu Railway,Kawaguchiko,61
+2026-11-05,14,Fujikyu Railway,Kawaguchiko,54
+2026-11-05,15,Fujikyu Railway,Kawaguchiko,16
+2026-11-05,16,Fujikyu Railway,Kawaguchiko,26
+2026-11-05,17,Fujikyu Railway,Kawaguchiko,11
+2026-11-05,18,Fujikyu Railway,Kawaguchiko,19
+2026-11-05,19,Fujikyu Railway,Kawaguchiko,90
+2026-11-05,20,Fujikyu Railway,Kawaguchiko,42
+2026-11-05,21,Fujikyu Railway,Kawaguchiko,65
+2026-11-05,6,Local Bus,Kawaguchiko Station,30
+2026-11-05,7,Local Bus,Kawaguchiko Station,17
+2026-11-05,8,Local Bus,Kawaguchiko Station,20
+2026-11-05,9,Local Bus,Kawaguchiko Station,58
+2026-11-05,10,Local Bus,Kawaguchiko Station,74
+2026-11-05,11,Local Bus,Kawaguchiko Station,46
+2026-11-05,12,Local Bus,Kawaguchiko Station,86
+2026-11-05,13,Local Bus,Kawaguchiko Station,41
+2026-11-05,14,Local Bus,Kawaguchiko Station,47
+2026-11-05,15,Local Bus,Kawaguchiko Station,15
+2026-11-05,16,Local Bus,Kawaguchiko Station,68
+2026-11-05,17,Local Bus,Kawaguchiko Station,33
+2026-11-05,18,Local Bus,Kawaguchiko Station,30
+2026-11-05,19,Local Bus,Kawaguchiko Station,44
+2026-11-05,20,Local Bus,Kawaguchiko Station,67
+2026-11-05,21,Local Bus,Kawaguchiko Station,10
+2026-11-05,6,Local Bus,Lake Kawaguchiko North,43
+2026-11-05,7,Local Bus,Lake Kawaguchiko North,56
+2026-11-05,8,Local Bus,Lake Kawaguchiko North,52
+2026-11-05,9,Local Bus,Lake Kawaguchiko North,80
+2026-11-05,10,Local Bus,Lake Kawaguchiko North,51
+2026-11-05,11,Local Bus,Lake Kawaguchiko North,41
+2026-11-05,12,Local Bus,Lake Kawaguchiko North,14
+2026-11-05,13,Local Bus,Lake Kawaguchiko North,49
+2026-11-05,14,Local Bus,Lake Kawaguchiko North,37
+2026-11-05,15,Local Bus,Lake Kawaguchiko North,55
+2026-11-05,16,Local Bus,Lake Kawaguchiko North,33
+2026-11-05,17,Local Bus,Lake Kawaguchiko North,10
+2026-11-05,18,Local Bus,Lake Kawaguchiko North,52
+2026-11-05,19,Local Bus,Lake Kawaguchiko North,58
+2026-11-05,20,Local Bus,Lake Kawaguchiko North,20
+2026-11-05,21,Local Bus,Lake Kawaguchiko North,70
+2026-11-06,6,Fujikyu Railway,Otsuki,45
+2026-11-06,7,Fujikyu Railway,Otsuki,74
+2026-11-06,8,Fujikyu Railway,Otsuki,35
+2026-11-06,9,Fujikyu Railway,Otsuki,41
+2026-11-06,10,Fujikyu Railway,Otsuki,74
+2026-11-06,11,Fujikyu Railway,Otsuki,10
+2026-11-06,12,Fujikyu Railway,Otsuki,21
+2026-11-06,13,Fujikyu Railway,Otsuki,43
+2026-11-06,14,Fujikyu Railway,Otsuki,21
+2026-11-06,15,Fujikyu Railway,Otsuki,28
+2026-11-06,16,Fujikyu Railway,Otsuki,61
+2026-11-06,17,Fujikyu Railway,Otsuki,85
+2026-11-06,18,Fujikyu Railway,Otsuki,15
+2026-11-06,19,Fujikyu Railway,Otsuki,60
+2026-11-06,20,Fujikyu Railway,Otsuki,12
+2026-11-06,21,Fujikyu Railway,Otsuki,48
+2026-11-06,6,Fujikyu Railway,Shimoyoshida,48
+2026-11-06,7,Fujikyu Railway,Shimoyoshida,90
+2026-11-06,8,Fujikyu Railway,Shimoyoshida,39
+2026-11-06,9,Fujikyu Railway,Shimoyoshida,20
+2026-11-06,10,Fujikyu Railway,Shimoyoshida,84
+2026-11-06,11,Fujikyu Railway,Shimoyoshida,77
+2026-11-06,12,Fujikyu Railway,Shimoyoshida,29
+2026-11-06,13,Fujikyu Railway,Shimoyoshida,86
+2026-11-06,14,Fujikyu Railway,Shimoyoshida,59
+2026-11-06,15,Fujikyu Railway,Shimoyoshida,51
+2026-11-06,16,Fujikyu Railway,Shimoyoshida,73
+2026-11-06,17,Fujikyu Railway,Shimoyoshida,29
+2026-11-06,18,Fujikyu Railway,Shimoyoshida,46
+2026-11-06,19,Fujikyu Railway,Shimoyoshida,89
+2026-11-06,20,Fujikyu Railway,Shimoyoshida,28
+2026-11-06,21,Fujikyu Railway,Shimoyoshida,15
+2026-11-06,6,Fujikyu Railway,Mt.Fuji,75
+2026-11-06,7,Fujikyu Railway,Mt.Fuji,90
+2026-11-06,8,Fujikyu Railway,Mt.Fuji,64
+2026-11-06,9,Fujikyu Railway,Mt.Fuji,74
+2026-11-06,10,Fujikyu Railway,Mt.Fuji,27
+2026-11-06,11,Fujikyu Railway,Mt.Fuji,77
+2026-11-06,12,Fujikyu Railway,Mt.Fuji,74
+2026-11-06,13,Fujikyu Railway,Mt.Fuji,82
+2026-11-06,14,Fujikyu Railway,Mt.Fuji,12
+2026-11-06,15,Fujikyu Railway,Mt.Fuji,84
+2026-11-06,16,Fujikyu Railway,Mt.Fuji,39
+2026-11-06,17,Fujikyu Railway,Mt.Fuji,20
+2026-11-06,18,Fujikyu Railway,Mt.Fuji,13
+2026-11-06,19,Fujikyu Railway,Mt.Fuji,15
+2026-11-06,20,Fujikyu Railway,Mt.Fuji,27
+2026-11-06,21,Fujikyu Railway,Mt.Fuji,56
+2026-11-06,6,Fujikyu Railway,Fuji-Q Highland,23
+2026-11-06,7,Fujikyu Railway,Fuji-Q Highland,58
+2026-11-06,8,Fujikyu Railway,Fuji-Q Highland,67
+2026-11-06,9,Fujikyu Railway,Fuji-Q Highland,81
+2026-11-06,10,Fujikyu Railway,Fuji-Q Highland,16
+2026-11-06,11,Fujikyu Railway,Fuji-Q Highland,90
+2026-11-06,12,Fujikyu Railway,Fuji-Q Highland,12
+2026-11-06,13,Fujikyu Railway,Fuji-Q Highland,90
+2026-11-06,14,Fujikyu Railway,Fuji-Q Highland,78
+2026-11-06,15,Fujikyu Railway,Fuji-Q Highland,41
+2026-11-06,16,Fujikyu Railway,Fuji-Q Highland,72
+2026-11-06,17,Fujikyu Railway,Fuji-Q Highland,43
+2026-11-06,18,Fujikyu Railway,Fuji-Q Highland,10
+2026-11-06,19,Fujikyu Railway,Fuji-Q Highland,68
+2026-11-06,20,Fujikyu Railway,Fuji-Q Highland,18
+2026-11-06,21,Fujikyu Railway,Fuji-Q Highland,74
+2026-11-06,6,Fujikyu Railway,Kawaguchiko,78
+2026-11-06,7,Fujikyu Railway,Kawaguchiko,21
+2026-11-06,8,Fujikyu Railway,Kawaguchiko,77
+2026-11-06,9,Fujikyu Railway,Kawaguchiko,18
+2026-11-06,10,Fujikyu Railway,Kawaguchiko,70
+2026-11-06,11,Fujikyu Railway,Kawaguchiko,42
+2026-11-06,12,Fujikyu Railway,Kawaguchiko,19
+2026-11-06,13,Fujikyu Railway,Kawaguchiko,43
+2026-11-06,14,Fujikyu Railway,Kawaguchiko,40
+2026-11-06,15,Fujikyu Railway,Kawaguchiko,36
+2026-11-06,16,Fujikyu Railway,Kawaguchiko,39
+2026-11-06,17,Fujikyu Railway,Kawaguchiko,68
+2026-11-06,18,Fujikyu Railway,Kawaguchiko,73
+2026-11-06,19,Fujikyu Railway,Kawaguchiko,58
+2026-11-06,20,Fujikyu Railway,Kawaguchiko,19
+2026-11-06,21,Fujikyu Railway,Kawaguchiko,71
+2026-11-06,6,Local Bus,Kawaguchiko Station,46
+2026-11-06,7,Local Bus,Kawaguchiko Station,15
+2026-11-06,8,Local Bus,Kawaguchiko Station,88
+2026-11-06,9,Local Bus,Kawaguchiko Station,90
+2026-11-06,10,Local Bus,Kawaguchiko Station,35
+2026-11-06,11,Local Bus,Kawaguchiko Station,19
+2026-11-06,12,Local Bus,Kawaguchiko Station,86
+2026-11-06,13,Local Bus,Kawaguchiko Station,28
+2026-11-06,14,Local Bus,Kawaguchiko Station,52
+2026-11-06,15,Local Bus,Kawaguchiko Station,42
+2026-11-06,16,Local Bus,Kawaguchiko Station,48
+2026-11-06,17,Local Bus,Kawaguchiko Station,89
+2026-11-06,18,Local Bus,Kawaguchiko Station,82
+2026-11-06,19,Local Bus,Kawaguchiko Station,27
+2026-11-06,20,Local Bus,Kawaguchiko Station,11
+2026-11-06,21,Local Bus,Kawaguchiko Station,71
+2026-11-06,6,Local Bus,Lake Kawaguchiko North,17
+2026-11-06,7,Local Bus,Lake Kawaguchiko North,72
+2026-11-06,8,Local Bus,Lake Kawaguchiko North,44
+2026-11-06,9,Local Bus,Lake Kawaguchiko North,22
+2026-11-06,10,Local Bus,Lake Kawaguchiko North,37
+2026-11-06,11,Local Bus,Lake Kawaguchiko North,72
+2026-11-06,12,Local Bus,Lake Kawaguchiko North,47
+2026-11-06,13,Local Bus,Lake Kawaguchiko North,76
+2026-11-06,14,Local Bus,Lake Kawaguchiko North,46
+2026-11-06,15,Local Bus,Lake Kawaguchiko North,69
+2026-11-06,16,Local Bus,Lake Kawaguchiko North,69
+2026-11-06,17,Local Bus,Lake Kawaguchiko North,69
+2026-11-06,18,Local Bus,Lake Kawaguchiko North,25
+2026-11-06,19,Local Bus,Lake Kawaguchiko North,80
+2026-11-06,20,Local Bus,Lake Kawaguchiko North,35
+2026-11-06,21,Local Bus,Lake Kawaguchiko North,49
+2026-11-07,6,Fujikyu Railway,Otsuki,20
+2026-11-07,7,Fujikyu Railway,Otsuki,70
+2026-11-07,8,Fujikyu Railway,Otsuki,12
+2026-11-07,9,Fujikyu Railway,Otsuki,47
+2026-11-07,10,Fujikyu Railway,Otsuki,68
+2026-11-07,11,Fujikyu Railway,Otsuki,19
+2026-11-07,12,Fujikyu Railway,Otsuki,74
+2026-11-07,13,Fujikyu Railway,Otsuki,67
+2026-11-07,14,Fujikyu Railway,Otsuki,44
+2026-11-07,15,Fujikyu Railway,Otsuki,59
+2026-11-07,16,Fujikyu Railway,Otsuki,36
+2026-11-07,17,Fujikyu Railway,Otsuki,36
+2026-11-07,18,Fujikyu Railway,Otsuki,19
+2026-11-07,19,Fujikyu Railway,Otsuki,84
+2026-11-07,20,Fujikyu Railway,Otsuki,21
+2026-11-07,21,Fujikyu Railway,Otsuki,28
+2026-11-07,6,Fujikyu Railway,Shimoyoshida,77
+2026-11-07,7,Fujikyu Railway,Shimoyoshida,43
+2026-11-07,8,Fujikyu Railway,Shimoyoshida,56
+2026-11-07,9,Fujikyu Railway,Shimoyoshida,26
+2026-11-07,10,Fujikyu Railway,Shimoyoshida,87
+2026-11-07,11,Fujikyu Railway,Shimoyoshida,90
+2026-11-07,12,Fujikyu Railway,Shimoyoshida,75
+2026-11-07,13,Fujikyu Railway,Shimoyoshida,45
+2026-11-07,14,Fujikyu Railway,Shimoyoshida,24
+2026-11-07,15,Fujikyu Railway,Shimoyoshida,56
+2026-11-07,16,Fujikyu Railway,Shimoyoshida,39
+2026-11-07,17,Fujikyu Railway,Shimoyoshida,73
+2026-11-07,18,Fujikyu Railway,Shimoyoshida,72
+2026-11-07,19,Fujikyu Railway,Shimoyoshida,60
+2026-11-07,20,Fujikyu Railway,Shimoyoshida,13
+2026-11-07,21,Fujikyu Railway,Shimoyoshida,30
+2026-11-07,6,Fujikyu Railway,Mt.Fuji,10
+2026-11-07,7,Fujikyu Railway,Mt.Fuji,72
+2026-11-07,8,Fujikyu Railway,Mt.Fuji,67
+2026-11-07,9,Fujikyu Railway,Mt.Fuji,61
+2026-11-07,10,Fujikyu Railway,Mt.Fuji,48
+2026-11-07,11,Fujikyu Railway,Mt.Fuji,28
+2026-11-07,12,Fujikyu Railway,Mt.Fuji,63
+2026-11-07,13,Fujikyu Railway,Mt.Fuji,54
+2026-11-07,14,Fujikyu Railway,Mt.Fuji,58
+2026-11-07,15,Fujikyu Railway,Mt.Fuji,50
+2026-11-07,16,Fujikyu Railway,Mt.Fuji,25
+2026-11-07,17,Fujikyu Railway,Mt.Fuji,52
+2026-11-07,18,Fujikyu Railway,Mt.Fuji,10
+2026-11-07,19,Fujikyu Railway,Mt.Fuji,51
+2026-11-07,20,Fujikyu Railway,Mt.Fuji,53
+2026-11-07,21,Fujikyu Railway,Mt.Fuji,60
+2026-11-07,6,Fujikyu Railway,Fuji-Q Highland,25
+2026-11-07,7,Fujikyu Railway,Fuji-Q Highland,35
+2026-11-07,8,Fujikyu Railway,Fuji-Q Highland,11
+2026-11-07,9,Fujikyu Railway,Fuji-Q Highland,47
+2026-11-07,10,Fujikyu Railway,Fuji-Q Highland,42
+2026-11-07,11,Fujikyu Railway,Fuji-Q Highland,57
+2026-11-07,12,Fujikyu Railway,Fuji-Q Highland,18
+2026-11-07,13,Fujikyu Railway,Fuji-Q Highland,60
+2026-11-07,14,Fujikyu Railway,Fuji-Q Highland,59
+2026-11-07,15,Fujikyu Railway,Fuji-Q Highland,85
+2026-11-07,16,Fujikyu Railway,Fuji-Q Highland,19
+2026-11-07,17,Fujikyu Railway,Fuji-Q Highland,56
+2026-11-07,18,Fujikyu Railway,Fuji-Q Highland,64
+2026-11-07,19,Fujikyu Railway,Fuji-Q Highland,45
+2026-11-07,20,Fujikyu Railway,Fuji-Q Highland,16
+2026-11-07,21,Fujikyu Railway,Fuji-Q Highland,45
+2026-11-07,6,Fujikyu Railway,Kawaguchiko,23
+2026-11-07,7,Fujikyu Railway,Kawaguchiko,16
+2026-11-07,8,Fujikyu Railway,Kawaguchiko,46
+2026-11-07,9,Fujikyu Railway,Kawaguchiko,29
+2026-11-07,10,Fujikyu Railway,Kawaguchiko,41
+2026-11-07,11,Fujikyu Railway,Kawaguchiko,44
+2026-11-07,12,Fujikyu Railway,Kawaguchiko,65
+2026-11-07,13,Fujikyu Railway,Kawaguchiko,75
+2026-11-07,14,Fujikyu Railway,Kawaguchiko,50
+2026-11-07,15,Fujikyu Railway,Kawaguchiko,34
+2026-11-07,16,Fujikyu Railway,Kawaguchiko,57
+2026-11-07,17,Fujikyu Railway,Kawaguchiko,64
+2026-11-07,18,Fujikyu Railway,Kawaguchiko,13
+2026-11-07,19,Fujikyu Railway,Kawaguchiko,90
+2026-11-07,20,Fujikyu Railway,Kawaguchiko,61
+2026-11-07,21,Fujikyu Railway,Kawaguchiko,80
+2026-11-07,6,Local Bus,Kawaguchiko Station,80
+2026-11-07,7,Local Bus,Kawaguchiko Station,36
+2026-11-07,8,Local Bus,Kawaguchiko Station,20
+2026-11-07,9,Local Bus,Kawaguchiko Station,16
+2026-11-07,10,Local Bus,Kawaguchiko Station,62
+2026-11-07,11,Local Bus,Kawaguchiko Station,67
+2026-11-07,12,Local Bus,Kawaguchiko Station,88
+2026-11-07,13,Local Bus,Kawaguchiko Station,27
+2026-11-07,14,Local Bus,Kawaguchiko Station,46
+2026-11-07,15,Local Bus,Kawaguchiko Station,72
+2026-11-07,16,Local Bus,Kawaguchiko Station,16
+2026-11-07,17,Local Bus,Kawaguchiko Station,80
+2026-11-07,18,Local Bus,Kawaguchiko Station,26
+2026-11-07,19,Local Bus,Kawaguchiko Station,31
+2026-11-07,20,Local Bus,Kawaguchiko Station,70
+2026-11-07,21,Local Bus,Kawaguchiko Station,63
+2026-11-07,6,Local Bus,Lake Kawaguchiko North,53
+2026-11-07,7,Local Bus,Lake Kawaguchiko North,46
+2026-11-07,8,Local Bus,Lake Kawaguchiko North,48
+2026-11-07,9,Local Bus,Lake Kawaguchiko North,42
+2026-11-07,10,Local Bus,Lake Kawaguchiko North,43
+2026-11-07,11,Local Bus,Lake Kawaguchiko North,61
+2026-11-07,12,Local Bus,Lake Kawaguchiko North,40
+2026-11-07,13,Local Bus,Lake Kawaguchiko North,48
+2026-11-07,14,Local Bus,Lake Kawaguchiko North,71
+2026-11-07,15,Local Bus,Lake Kawaguchiko North,81
+2026-11-07,16,Local Bus,Lake Kawaguchiko North,60
+2026-11-07,17,Local Bus,Lake Kawaguchiko North,25
+2026-11-07,18,Local Bus,Lake Kawaguchiko North,31
+2026-11-07,19,Local Bus,Lake Kawaguchiko North,30
+2026-11-07,20,Local Bus,Lake Kawaguchiko North,19
+2026-11-07,21,Local Bus,Lake Kawaguchiko North,36

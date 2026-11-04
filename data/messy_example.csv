@@ -1,0 +1,8 @@
+date,hour,line,station,passengers
+2026-11-01,8,Fujikyu Railway,Otsuki,85
+2026-11-01,9,Fujikyu Railway,Otsuki,abc
+2026-13-01,9,Fujikyu Railway,Otsuki,40
+2026-11-01,25,Fujikyu Railway,Otsuki,40
+2026-11-01,10,,Otsuki,40
+2026-11-01,10,Fujikyu Railway,Kawaguchiko,-5
+2026-11-01,10,Fujikyu Railway,Kawaguchiko,120
