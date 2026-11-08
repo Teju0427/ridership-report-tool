@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ridership Report Tool</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Chart.js draws the charts. Saved locally in /vendor so it works offline. -->
+  <script src="vendor/chart.umd.js"></script>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Ridership Report Tool</h1>
+      <p class="sub">Railway &amp; bus passenger data → dashboard → one-click Excel report</p>
+    </div>
+    <span class="badge">Sample data is synthetic</span>
+  </header>
+
+  <main>
+    <!-- 1. Upload -->
+    <section class="card">
+      <h2>1. Upload data</h2>
+      <p class="hint">CSV columns: <code>date, hour, line, station, passengers</code></p>
+      <form id="upload-form">
+        <input type="file" id="file" accept=".csv" required>
+        <button type="submit">Upload</button>
+        <button type="button" id="reset" class="secondary">Clear all data</button>
+      </form>
+      <div id="upload-result"></div>
+    </section>
+
+    <!-- 2. Filters -->
+    <section class="card">
+      <h2>2. Choose period</h2>
+      <div class="filters">
+        <label>From <input type="date" id="start"></label>
+        <label>To <input type="date" id="end"></label>
+        <label>Line
+          <select id="line"><option value="">All lines</option></select>
+        </label>
+        <button id="apply">Update dashboard</button>
+        <a id="download" class="button-link" href="#">⬇ Download Excel report</a>
+      </div>
+    </section>
+
+    <!-- 3. KPIs -->
+    <section class="kpis">
+      <div class="kpi"><span>Total passengers</span><strong id="k-total">–</strong></div>
+      <div class="kpi"><span>Average per day</span><strong id="k-avg">–</strong></div>
+      <div class="kpi"><span>Busiest station</span><strong id="k-station">–</strong></div>
+      <div class="kpi"><span>Peak hour</span><strong id="k-peak">–</strong></div>
+      <div class="kpi"><span>vs previous period</span><strong id="k-change">–</strong></div>
+    </section>
+
+    <!-- 4. Insights -->
+    <section class="card">
+      <h2>Key findings</h2>
+      <ul id="insights"></ul>
+    </section>
+
+    <!-- 5. Charts -->
+    <section class="grid">
+      <div class="card wide"><h3>Daily passengers</h3><canvas id="c-daily"></canvas></div>
+      <div class="card"><h3>By station</h3><canvas id="c-station"></canvas></div>
+      <div class="card"><h3>Average by hour of day</h3><canvas id="c-hour"></canvas></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
